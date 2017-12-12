@@ -28,7 +28,7 @@ body{
 	
 	.button_1{
 		height:38px;
-		background: #e8491d;
+		background: #b5e7ff;
 		border:0;
 		padding-left:10px;
 		padding-right:10px;
@@ -41,7 +41,7 @@ body{
 			color:#ffffff;
 			padding-top:30px;
 			min-height:70px;
-			border-bottom:#e8491d 3px solid;
+			border-bottom:#b5e7ff 3px solid;
 			
 	}
 	
@@ -176,6 +176,6 @@ body{
 		padding:20px;
 		margin-top:20px;
 		color:#ffffff;
-		background-color:#e8491d;
+		background-color:#b5e7ff;
 		text-align:center;
 	}
