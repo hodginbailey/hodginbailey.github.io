@@ -15,7 +15,7 @@ body{
 	
 	ul{
 			margin:0;
-			padding:0;
+			padding:;
 	}
 	
 	.dark{
@@ -186,4 +186,8 @@ body{
 		1px -1px 0 #000,
 		-1px 1px 0 #000,
 		1px 1px 0 #000;
+    } 
+    
+    .page-title { 
+    	padding: 20; 
     }
