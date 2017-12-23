@@ -156,9 +156,9 @@ body{
 		
 	
 	/*Main-col*/
-	article#main-col{
-		float:left;
-		width:65%;
+	article #main-col{
+		float:center;
+		width:90%;
 	}
 	
 	/*sERVICES*/
@@ -189,7 +189,7 @@ body{
     } 
     
     .page-title { 
-    	padding: 20; 
+    	padding: 20px; 
     }
     img { 
     	float: right;
