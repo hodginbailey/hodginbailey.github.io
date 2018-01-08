@@ -41,6 +41,7 @@ body{
 			color:#ffffff;
 			padding-top:30px;
 			min-height:70px;
+			width: 1,500px ;
 			border-bottom:#b5e7ff 3px solid;
 			
 	}
@@ -85,7 +86,7 @@ body{
 	/* Showcase*/
 	#showcase{
 		min-height:650px;
-		min-width:500px;
+		min-width:550px;
 		background: url("https://www.visitcatalinaisland.com/sites/default/files/cabana-1_0.png") no-repeat 100% -100px;
 		background-size: 100% 100%;
 		text-align: center;
