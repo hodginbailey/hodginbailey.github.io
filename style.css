@@ -28,11 +28,12 @@ body{
 	
 	.button_1{
 		height:38px;
-		background: #b5e7ff;
+		background:#b5e7ff;
 		border:0;
 		padding-left:10px;
 		padding-right:10px;
 		color:#ffffff;
+	     
 	}
 	
 	/* Header*/
