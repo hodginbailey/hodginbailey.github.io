@@ -85,8 +85,7 @@ body{
 	
 	/* Showcase*/
 	#showcase{
-		min-height: 550px;
-		min-width:400px;
+		min-height: 500px;
 		background: url("https://www.visitcatalinaisland.com/sites/default/files/cabana-1_0.png") no-repeat 100% -100px;
 		background-size: 100% 110%;
 		text-align: center;
